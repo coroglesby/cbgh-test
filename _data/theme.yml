@@ -28,7 +28,7 @@ home-banner-image-link:  # leave blank unless no cdm number to generate item
 # give title of the image for accessibility
 home-banner-image-title: Snowstorm Concentrator, Troy, Montana. No. 6. # for accessibility 
 # optional: add extra padding around title for larger image feature
-home-title-y-padding: 5em # the margin from the top your title portion will appear
+home-title-y-padding: 1em # the margin from the top your title portion will appear
 carousel-height: 500 # in px, but don't include the "px"; default is 300.
 # add top subjects, for list see data/subjects.csv
 featured-subjects: Buildings; Campuses; Picture postcards; County courthouses; Farms; Schools #separate semi-colon(';') - if left blank, will be automatically generated to create top 5 subjects
